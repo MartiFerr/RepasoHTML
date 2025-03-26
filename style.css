@@ -1,0 +1,45 @@
+h1 {
+    color: red;
+}
+body{
+    background-color:lightgray ;
+}
+p{
+    font-size :20px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+img{
+    border: black;
+}
+img{
+   border-width:2px ; 
+}
+    p{
+        background-color:lightblue ;
+    }
+    .resalatar{
+        color: green;
+    }
+    div {
+        margin: 15px;
+    }
+    table {
+        padding: 10px;
+        border-collapse: collapse;
+        width: 100%;
+    }
+    
+    th, td {
+        padding: 10px;
+        border: 1px solid black;
+    }
+    .imagen-especifica {
+        width: 200px;
+    }
+
+
