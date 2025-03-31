@@ -42,4 +42,15 @@ img{
         width: 200px;
     }
 
+    #titulo-grande {
+            font-size: 30px;
+        }
+    ul li {
+            color: purple;
+        }
 
+     p {
+            font-family: "Times New Roman", Times, serif;
+            font-size: 16px;
+            background-color: yellow;
+        }
