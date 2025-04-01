@@ -17,3 +17,7 @@ ul {
 img {
     border: 3px dotted black;
 }
+p {
+    font-size: 20px;
+    color: black;
+}
